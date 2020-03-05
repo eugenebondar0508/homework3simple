@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-size: 18px;
+}
+.layout{
+    width: 800px;
+    margin: auto;
+}
+.marg{
+    margin-top: 25px;}
+
+.header{
+    
+    border: 1px solid #A52A2A;
+    color: white;
+    background-color:#A52A2A;
+    text-align: center;
+}
+.sunset{border-image: none;}
+.quis{
+    text-decoration: none;
+    font-style: italic;
+}
+.car{
+    text-align: center;
+
+}
+img{
+    border: 2px dashed black;
+}
+.sun{
+    border: none;
+}
+.footer{
+    border: 1 px solid black;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+}
